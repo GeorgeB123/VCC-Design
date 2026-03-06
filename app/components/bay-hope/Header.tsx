@@ -11,7 +11,7 @@ export default function BayHopeHeader() {
     <>
       {/* Top banner */}
       <div className="bg-[#34495e] text-white text-center py-3 mt-10 text-sm overscroll-none">
-        Guests and members visit the Central Hub
+        New here? We'd love to meet you this Sunday at 10:30 AM
       </div>
 
       {/* Header */}
